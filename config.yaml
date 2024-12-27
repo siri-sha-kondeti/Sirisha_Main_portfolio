@@ -1,0 +1,83 @@
+baseURL: "https://github.com/siri-sha-kondeti/Sirisha_Main_portfolio.git"
+languageCode: en-us
+title: Sirisha Kondeti
+theme: PaperMod
+publishDir: public
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects
+      weight: 30
+    - identifier: experience
+      name: Experience
+      url: /experience
+      weight: 40
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 50
+
+
+params:
+  # theme
+  showToc: true
+  TocOpen: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  hideMeta: false
+
+  # for enchanced SEO
+  env: production
+
+  # Home Page
+  profileMode:
+    enabled: true
+    title: "Sirisha Kondeti"
+    subtitle:  I am Sirisha Kondeti, a passionate Software Developer specializing in Artificial Intelligence (AI), Machine Learning (ML), and Generative AI (GenAI). With extensive experience in building intelligent systems, I focus on creating solutions that analyze data, predict outcomes, and generate innovative content. My expertise spans across developing AI-driven applications, implementing large language models (LLMs) like advanced text processing, and leveraging cloud platforms. My approach combines technical excellence with real-world problem-solving, delivering impactful, scalable, and user-centric solutions. Explore my portfolio to see how AI, ML, and GenAI are driving smarter and more efficient outcomes.
+ 
+    imageUrl: "home/Sirisha_profile_pic.jpg"
+    imageWidth: 220
+    imageHeight: 220
+    # buttons:
+    #   - name: Resume
+    #     url: ""
+
+  # List View
+  hideDescriptionInList: false
+
+  # cover image for posts
+  cover:
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+
+
+
+  # text search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# for search using Fuse.js
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# allow HTML in MD
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
