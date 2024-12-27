@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Neo4J on Sirisha Kondeti</title>
-    <link>https://github.com/siri-sha-kondeti/Sirisha_Main_portfolio.git/tags/neo4j/</link>
+    <link>https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/tags/neo4j/</link>
     <description>Recent content in Neo4J on Sirisha Kondeti</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://github.com/siri-sha-kondeti/Sirisha_Main_portfolio.git/tags/neo4j/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/tags/neo4j/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Senior Software Developer - Generative AI and Machine Learning</title>
-      <link>https://github.com/siri-sha-kondeti/Sirisha_Main_portfolio.git/experience/cybernality/</link>
+      <link>https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/experience/cybernality/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/siri-sha-kondeti/Sirisha_Main_portfolio.git/experience/cybernality/</guid>
+      <guid>https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/experience/cybernality/</guid>
       <description>Cybernality | Germany</description>
     </item>
     
