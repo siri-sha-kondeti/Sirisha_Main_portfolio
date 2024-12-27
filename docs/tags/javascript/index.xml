@@ -1,34 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Javascript on Sirisha Kondeti</title>
-    <link>https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/tags/javascript/</link>
-    <description>Recent content in Javascript on Sirisha Kondeti</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Developed Software Application for voice-oriented navigation for blind individuals (Bachelor Thesis)</title>
-      <link>https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/projects/voice-oriented-navigation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/projects/voice-oriented-navigation/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;Enable visually impaired individuals to navigate effortlessly with voice-oriented navigation systems, Used advanced
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Javascript on Sirisha Kondeti</title><link>https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/tags/javascript/</link><description>Recent content in Javascript on Sirisha Kondeti</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/tags/javascript/index.xml" rel="self" type="application/rss+xml"/><item><title>Developed Software Application for voice-oriented navigation for blind individuals (Bachelor Thesis)</title><link>https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/projects/voice-oriented-navigation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/projects/voice-oriented-navigation/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Enable visually impaired individuals to navigate effortlessly with voice-oriented navigation systems, Used advanced
 technologies that recognize and speak in real-time to guide them audibly. Created a simple interface using HTML,
 CSS, and Javascript and connected them with backend system FLASK, RESTAPI, and PostgreSQL. Used wake
 word detection, Speech Recognition and gTTS (Text-to-Speech) engines and easy-to-use APIs from Google.
 These solutions make it easier for them to get around without needing extra help, so they can feel more confident
-exploring their surroundings.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Software Developer</title>
-      <link>https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/experience/talent-capital/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/experience/talent-capital/</guid>
-      <description>Talent Capital (India)</description>
-    </item>
-    
-  </channel>
-</rss>
+exploring their surroundings.&lt;/p></description></item><item><title>Software Developer</title><link>https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/experience/talent-capital/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/experience/talent-capital/</guid><description>Talent Capital (India)</description></item></channel></rss>

@@ -1,50 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>PyTorch on Sirisha Kondeti</title>
-    <link>https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/tags/pytorch/</link>
-    <description>Recent content in PyTorch on Sirisha Kondeti</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Developed Software Application for voice-oriented navigation for blind individuals (Bachelor Thesis)</title>
-      <link>https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/projects/voice-oriented-navigation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/projects/voice-oriented-navigation/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;Enable visually impaired individuals to navigate effortlessly with voice-oriented navigation systems, Used advanced
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>PyTorch on Sirisha Kondeti</title><link>https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/tags/pytorch/</link><description>Recent content in PyTorch on Sirisha Kondeti</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/tags/pytorch/index.xml" rel="self" type="application/rss+xml"/><item><title>Developed Software Application for voice-oriented navigation for blind individuals (Bachelor Thesis)</title><link>https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/projects/voice-oriented-navigation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/projects/voice-oriented-navigation/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Enable visually impaired individuals to navigate effortlessly with voice-oriented navigation systems, Used advanced
 technologies that recognize and speak in real-time to guide them audibly. Created a simple interface using HTML,
 CSS, and Javascript and connected them with backend system FLASK, RESTAPI, and PostgreSQL. Used wake
 word detection, Speech Recognition and gTTS (Text-to-Speech) engines and easy-to-use APIs from Google.
 These solutions make it easier for them to get around without needing extra help, so they can feel more confident
-exploring their surroundings.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Face Detection and 3D Reconstruction Using Landmark Points</title>
-      <link>https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/projects/face-landmarks-detection/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/projects/face-landmarks-detection/</guid>
-      <description>Can computers really understand the human face?</description>
-    </item>
-    
-    <item>
-      <title>Crop Yield Prediction Application</title>
-      <link>https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/projects/crop-yield-prediction-application/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/projects/crop-yield-prediction-application/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;Developed an advanced crop yield prediction application for a regional
+exploring their surroundings.&lt;/p></description></item><item><title>Face Detection and 3D Reconstruction Using Landmark Points</title><link>https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/projects/face-landmarks-detection/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/projects/face-landmarks-detection/</guid><description>Can computers really understand the human face?</description></item><item><title>Crop Yield Prediction Application</title><link>https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/projects/crop-yield-prediction-application/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://siri-sha-kondeti.github.io/Sirisha_Main_portfolio/projects/crop-yield-prediction-application/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Developed an advanced crop yield prediction application for a regional
 agricultural cooperative, enhancing farming decisions and yield forecasts with remarkable precision. Utilized a
 robust tech stack including Crop Disease detection, CNN, HTML, CSS, Javascript, Python, FAST
 API, sci-kit-learn, PyTorch, Numpy, and Pandas for effective data analysis and predictive modeling.
 Integrated cutting-edge data preprocessing techniques such as statistical analysis, feature engineering, and data
 normalization to refine model accuracy. Historical weather data were incorporated using OpenWeatherMap API
-and also used Leaflet maps for visualization and real-time projection.&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+and also used Leaflet maps for visualization and real-time projection.&lt;/p></description></item></channel></rss>
