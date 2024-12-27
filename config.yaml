@@ -2,7 +2,7 @@ baseURL: "https://github.com/siri-sha-kondeti/Sirisha_Main_portfolio.git"
 languageCode: en-us
 title: Sirisha Kondeti
 theme: PaperMod
-publishDir: public
+publishDir: docs
 
 menu:
   main:

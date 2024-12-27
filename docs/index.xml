@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sirisha Kondeti</title>
+    <link>https://github.com/siri-sha-kondeti/Sirisha_Main_portfolio.git/</link>
+    <description>Recent content on Sirisha Kondeti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://github.com/siri-sha-kondeti/Sirisha_Main_portfolio.git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI-Powered Ticket Suggestion System</title>
+      <link>https://github.com/siri-sha-kondeti/Sirisha_Main_portfolio.git/projects/ticket-suggestion-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/siri-sha-kondeti/Sirisha_Main_portfolio.git/projects/ticket-suggestion-system/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;The Ticket Suggestion System is an AI-driven solution designed to assist IT support agents in resolving new tickets efficiently by leveraging Natural Language Processing (NLP) and semantic search techniques. Built using Python, FAISS, and Streamlit, the system analyzes incoming support tickets and matches them with previously resolved cases based on cosine similarity and semantic embeddings.&lt;/p&gt;
+&lt;p&gt;The NLP-powered backend ensures precise analysis of ticket descriptions, while the FAISS index enables fast and scalable similarity searches across large datasets of historical tickets. The Streamlit-based frontend provides an intuitive and user-friendly interface, allowing support agents to input ticket details and instantly receive relevant suggestions for solutions.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Developed Software Application for voice-oriented navigation for blind individuals (Bachelor Thesis)</title>
+      <link>https://github.com/siri-sha-kondeti/Sirisha_Main_portfolio.git/projects/voice-oriented-navigation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/siri-sha-kondeti/Sirisha_Main_portfolio.git/projects/voice-oriented-navigation/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Enable visually impaired individuals to navigate effortlessly with voice-oriented navigation systems, Used advanced
+technologies that recognize and speak in real-time to guide them audibly. Created a simple interface using HTML,
+CSS, and Javascript and connected them with backend system FLASK, RESTAPI, and PostgreSQL. Used wake
+word detection, Speech Recognition and gTTS (Text-to-Speech) engines and easy-to-use APIs from Google.
+These solutions make it easier for them to get around without needing extra help, so they can feel more confident
+exploring their surroundings.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Face Detection and 3D Reconstruction Using Landmark Points</title>
+      <link>https://github.com/siri-sha-kondeti/Sirisha_Main_portfolio.git/projects/face-landmarks-detection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/siri-sha-kondeti/Sirisha_Main_portfolio.git/projects/face-landmarks-detection/</guid>
+      <description>Can computers really understand the human face?</description>
+    </item>
+    
+    <item>
+      <title>Crop Yield Prediction Application</title>
+      <link>https://github.com/siri-sha-kondeti/Sirisha_Main_portfolio.git/projects/crop-yield-prediction-application/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/siri-sha-kondeti/Sirisha_Main_portfolio.git/projects/crop-yield-prediction-application/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Developed an advanced crop yield prediction application for a regional
+agricultural cooperative, enhancing farming decisions and yield forecasts with remarkable precision. Utilized a
+robust tech stack including Crop Disease detection, CNN, HTML, CSS, Javascript, Python, FAST
+API, sci-kit-learn, PyTorch, Numpy, and Pandas for effective data analysis and predictive modeling.
+Integrated cutting-edge data preprocessing techniques such as statistical analysis, feature engineering, and data
+normalization to refine model accuracy. Historical weather data were incorporated using OpenWeatherMap API
+and also used Leaflet maps for visualization and real-time projection.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Smart Assistant</title>
+      <link>https://github.com/siri-sha-kondeti/Sirisha_Main_portfolio.git/projects/smart-assistant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/siri-sha-kondeti/Sirisha_Main_portfolio.git/projects/smart-assistant/</guid>
+      <description>AI Assistant</description>
+    </item>
+    
+    <item>
+      <title>Senior Software Developer - Generative AI and Machine Learning</title>
+      <link>https://github.com/siri-sha-kondeti/Sirisha_Main_portfolio.git/experience/cybernality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/siri-sha-kondeti/Sirisha_Main_portfolio.git/experience/cybernality/</guid>
+      <description>Cybernality | Germany</description>
+    </item>
+    
+    <item>
+      <title>Senior Software Developer</title>
+      <link>https://github.com/siri-sha-kondeti/Sirisha_Main_portfolio.git/experience/us-software-and-services-group/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/siri-sha-kondeti/Sirisha_Main_portfolio.git/experience/us-software-and-services-group/</guid>
+      <description>US Software and Services Group (India)</description>
+    </item>
+    
+    <item>
+      <title>Software Developer</title>
+      <link>https://github.com/siri-sha-kondeti/Sirisha_Main_portfolio.git/experience/talent-capital/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/siri-sha-kondeti/Sirisha_Main_portfolio.git/experience/talent-capital/</guid>
+      <description>Talent Capital (India)</description>
+    </item>
+    
+    
+  </channel>
+</rss>
